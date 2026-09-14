@@ -4,7 +4,7 @@ import subprocess
 import sys
 
 PASTA = Path(__file__).resolve().parent
-SCRIPTS = ['IAD.py', 'TCL.py']  # Acrescente novas automações aqui.
+SCRIPTS = ['IAD.py', 'TCL.py', 'Meta01.py', 'Meta02.py', 'Meta03.py', 'Meta04.py', 'Meta05.py', 'Meta06.py', 'Meta07.py', 'Meta08.py', 'Meta10.py']  # Acrescente novas automações aqui.
 TIMEOUT = 1800  # 30 minutos por script, incluindo seus quatro graus.
 
 
